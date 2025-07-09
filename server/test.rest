@@ -1,0 +1,13 @@
+# GET http://localhost:8080/api/v1/post/get-all-post
+GET http://localhost:8080/api/v1/post/get-user-post
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODY3NjFiZjkyYzU1Y2Y5NTlkZjZiMWIiLCJpYXQiOjE3NTE3MzEzMzYsImV4cCI6MTc1MjMzNjEzNn0.KYNAIaPY3aoxI0dj9t73wDLop5g2BGtNHYU0RabGWwQ
+
+
+# POST http://localhost:8080/api/v1/auth/login
+# Content-Type: application/json
+
+# {
+#     "email":"sadid14@gmail.com",
+#     "password":"123456789"
+# }
